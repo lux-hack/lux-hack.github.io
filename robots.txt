@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /privacy
+Disallow: /admin
+
+
+
+Host: https://cheatspubg.ru
+Sitemap: https://cheatspubg.ru/sitemap.xml
